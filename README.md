@@ -25,3 +25,10 @@ CodeChef Practice Solutions in C++
     <li>Tested code and works properly, but exceeds time limit when submitted</li>
     <li>I'm guessing it's waiting for input that is not given</li>
 </ul>
+
+<h4>Small Factorials</h4>
+<ul>
+    <li>Done! 7/22/2013</li>
+    <li>Fairly straight forward</li>
+    <li>I wrote more lines of code than expected</li>
+</ul>
