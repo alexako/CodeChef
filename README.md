@@ -28,7 +28,8 @@ CodeChef Practice Solutions in C++
 
 <h4>Small Factorials</h4>
 <ul>
-    <li>Done! 7/22/2013</li>
+    <li>Unaccepted 7/22/2013</li>
     <li>Fairly straight forward</li>
     <li>I wrote more lines of code than expected</li>
+    <li>Very large numbers return wrong values</li>
 </ul>

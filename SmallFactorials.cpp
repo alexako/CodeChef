@@ -3,11 +3,12 @@
 
 int main() {
 
-    int num, count;
+    unsigned long long num;
+    unsigned long count;
 
     std::cin >> count;
 
-    int factorial[count];
+    unsigned long long factorial[count];
 
 
     for (int i=0; i < count; i++) {
